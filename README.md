@@ -38,6 +38,12 @@ The dataset is available on Kaggle under the name "Amazon Sales Dataset" and con
    - **Customer Behavior**: Analyzing repeat purchase behavior, average spend per customer, etc.
    - **Time-Based Insights**: Analyzing sales trends over time, peak months, and seasons.
 
+## Output of PowerBI
+
+![Screenshot 2024-09-20 105301](https://github.com/user-attachments/assets/505783f9-3546-49c4-a262-9459cbe555fb)
+![Screenshot 2024-09-20 105315](https://github.com/user-attachments/assets/58ae6b90-ee8f-4ad4-bfd0-62213353b017)
+![Screenshot 2024-09-20 105326](https://github.com/user-attachments/assets/cfbf990a-5447-4738-b27e-f3363453d7c8)
+
 ## Installation and Setup
 
 To replicate this project:
